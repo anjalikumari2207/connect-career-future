@@ -11,13 +11,13 @@ An AI-powered blockchain-integrated job platform enabling users to post and disc
 
 ## 🚀 Features
 
-### ✅ Blockchain Integration (Module 3)
+### ✅ Blockchain Integration 
 
 * Phantom wallet connection
 * 0.01 SOL fee transaction to admin before job posting
 * Transaction verified on Solana Devnet
 
-### ✅ AI-Powered Enhancements (Module 4)
+### ✅ AI-Powered Enhancements 
 
 * Resume Skill Extraction (text + PDF/.docx upload)
 * Smart Job ↔ Candidate Matching using NLP + Cosine Similarity
