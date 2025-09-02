@@ -130,35 +130,6 @@ npm run dev
 
 ```txt
 Devnet Wallet: 12c9CS6jPkKTGhAb1Wi7DQsnpJn9PX2uu54n1EgwzPvV
-```
-
----
-
-## 📈 GTM & Monetization Strategy
-
-### 🎯 Target Users
-
-* College grads, professionals (22–35 yrs)
-* Startups, SMEs hiring tech talent
-
-### 📅 3-Month Roadmap
-
-1. Launch on Product Hunt + LinkedIn (Week 1–2)
-2. Partner with university TPOs and coding bootcamps (Week 3–6)
-3. Discord community, resume feedback loops (Week 7–12)
-
-### 💰 Budget: ₹5,000
-
-* ₹2,000 – LinkedIn Ads (targeted by skills & location)
-* ₹1,500 – Creator shoutouts (YouTube/Instagram)
-* ₹1,000 – Discord promotions, meme campaigns
-* ₹500 – Resume contest rewards (Amazon/Flipkart)
-
-### 💸 Revenue Streams
-
-1. ₹150/month premium resume boost (visibility, analytics)
-2. ₹500 one-time token payment for job highlight (on Solana)
-
 ---
 
 ## 📄 License
